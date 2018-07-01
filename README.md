@@ -1,0 +1,1 @@
+# AndroidVendor-Lenovo-A369i-LP
